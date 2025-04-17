@@ -13,6 +13,9 @@ namespace DataTypes
             int age = 22;
             Console.WriteLine(age);
 
+            long bigNumber = 9000000000L;
+            Console.WriteLine(bigNumber);
+
             Console.ReadLine();
         }
     }
