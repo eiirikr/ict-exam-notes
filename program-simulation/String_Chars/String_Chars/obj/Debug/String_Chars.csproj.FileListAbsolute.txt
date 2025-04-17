@@ -1,0 +1,7 @@
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\String_Chars\String_Chars\bin\Debug\String_Chars.exe.config
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\String_Chars\String_Chars\bin\Debug\String_Chars.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\String_Chars\String_Chars\bin\Debug\String_Chars.pdb
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\String_Chars\String_Chars\obj\Debug\String_Chars.csproj.AssemblyReference.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\String_Chars\String_Chars\obj\Debug\String_Chars.csproj.CoreCompileInputs.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\String_Chars\String_Chars\obj\Debug\String_Chars.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\String_Chars\String_Chars\obj\Debug\String_Chars.pdb
