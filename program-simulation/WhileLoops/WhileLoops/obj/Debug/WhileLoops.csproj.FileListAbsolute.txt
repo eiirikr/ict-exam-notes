@@ -1,0 +1,7 @@
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe.config
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\WhileLoops\WhileLoops\bin\Debug\WhileLoops.pdb
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csproj.AssemblyReference.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\WhileLoops\WhileLoops\obj\Debug\WhileLoops.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\WhileLoops\WhileLoops\obj\Debug\WhileLoops.pdb
