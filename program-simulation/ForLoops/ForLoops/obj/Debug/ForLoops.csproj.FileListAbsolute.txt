@@ -1,0 +1,7 @@
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\ForLoops\ForLoops\bin\Debug\ForLoops.exe.config
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\ForLoops\ForLoops\bin\Debug\ForLoops.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\ForLoops\ForLoops\bin\Debug\ForLoops.pdb
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\ForLoops\ForLoops\obj\Debug\ForLoops.csproj.AssemblyReference.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\ForLoops\ForLoops\obj\Debug\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\ForLoops\ForLoops\obj\Debug\ForLoops.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\ForLoops\ForLoops\obj\Debug\ForLoops.pdb
