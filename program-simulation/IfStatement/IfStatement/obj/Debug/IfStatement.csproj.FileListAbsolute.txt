@@ -1,0 +1,7 @@
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\IfStatement\IfStatement\bin\Debug\IfStatement.exe.config
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\IfStatement\IfStatement\bin\Debug\IfStatement.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\IfStatement\IfStatement\bin\Debug\IfStatement.pdb
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\IfStatement\IfStatement\obj\Debug\IfStatement.csproj.AssemblyReference.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\IfStatement\IfStatement\obj\Debug\IfStatement.csproj.CoreCompileInputs.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\IfStatement\IfStatement\obj\Debug\IfStatement.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\IfStatement\IfStatement\obj\Debug\IfStatement.pdb
