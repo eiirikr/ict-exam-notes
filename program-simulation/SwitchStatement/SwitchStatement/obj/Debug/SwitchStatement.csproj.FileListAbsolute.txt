@@ -1,0 +1,7 @@
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.exe.config
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.pdb
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.csproj.AssemblyReference.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.pdb
