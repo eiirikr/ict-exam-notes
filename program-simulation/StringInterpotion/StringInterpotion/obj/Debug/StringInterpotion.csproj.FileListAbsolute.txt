@@ -1,0 +1,7 @@
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringInterpotion\StringInterpotion\bin\Debug\StringInterpotion.exe.config
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringInterpotion\StringInterpotion\bin\Debug\StringInterpotion.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringInterpotion\StringInterpotion\bin\Debug\StringInterpotion.pdb
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringInterpotion\StringInterpotion\obj\Debug\StringInterpotion.csproj.AssemblyReference.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringInterpotion\StringInterpotion\obj\Debug\StringInterpotion.csproj.CoreCompileInputs.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringInterpotion\StringInterpotion\obj\Debug\StringInterpotion.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringInterpotion\StringInterpotion\obj\Debug\StringInterpotion.pdb
