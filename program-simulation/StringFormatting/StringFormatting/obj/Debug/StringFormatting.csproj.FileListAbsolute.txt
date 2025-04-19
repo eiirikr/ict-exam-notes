@@ -1,0 +1,7 @@
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringFormatting\StringFormatting\bin\Debug\StringFormatting.exe.config
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringFormatting\StringFormatting\bin\Debug\StringFormatting.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringFormatting\StringFormatting\bin\Debug\StringFormatting.pdb
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringFormatting\StringFormatting\obj\Debug\StringFormatting.csproj.AssemblyReference.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringFormatting\StringFormatting\obj\Debug\StringFormatting.csproj.CoreCompileInputs.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringFormatting\StringFormatting\obj\Debug\StringFormatting.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringFormatting\StringFormatting\obj\Debug\StringFormatting.pdb
