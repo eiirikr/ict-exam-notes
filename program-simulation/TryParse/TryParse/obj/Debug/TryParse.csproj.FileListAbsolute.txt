@@ -1,0 +1,7 @@
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\TryParse\TryParse\bin\Debug\TryParse.exe.config
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\TryParse\TryParse\bin\Debug\TryParse.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\TryParse\TryParse\bin\Debug\TryParse.pdb
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\TryParse\TryParse\obj\Debug\TryParse.csproj.AssemblyReference.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\TryParse\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\TryParse\TryParse\obj\Debug\TryParse.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\TryParse\TryParse\obj\Debug\TryParse.pdb
