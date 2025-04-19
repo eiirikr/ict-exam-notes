@@ -1,0 +1,7 @@
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringConcatenation\StringConcatenation\bin\Debug\StringConcatenation.exe.config
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringConcatenation\StringConcatenation\bin\Debug\StringConcatenation.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringConcatenation\StringConcatenation\bin\Debug\StringConcatenation.pdb
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringConcatenation\StringConcatenation\obj\Debug\StringConcatenation.csproj.AssemblyReference.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringConcatenation\StringConcatenation\obj\Debug\StringConcatenation.csproj.CoreCompileInputs.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringConcatenation\StringConcatenation\obj\Debug\StringConcatenation.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\StringConcatenation\StringConcatenation\obj\Debug\StringConcatenation.pdb
