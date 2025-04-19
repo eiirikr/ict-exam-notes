@@ -1,0 +1,7 @@
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\Output\Output\bin\Debug\Output.exe.config
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\Output\Output\bin\Debug\Output.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\Output\Output\bin\Debug\Output.pdb
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\Output\Output\obj\Debug\Output.csproj.AssemblyReference.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\Output\Output\obj\Debug\Output.csproj.CoreCompileInputs.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\Output\Output\obj\Debug\Output.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\Output\Output\obj\Debug\Output.pdb
