@@ -1,4 +1,4 @@
-# ICT exam prep/notes
+# ICT Diagnostic Exam notes
 
 ## C# Programming Language
 
