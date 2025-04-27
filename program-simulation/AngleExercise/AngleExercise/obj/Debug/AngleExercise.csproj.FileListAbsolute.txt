@@ -1,0 +1,7 @@
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\AngleExercise\AngleExercise\bin\Debug\AngleExercise.exe.config
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\AngleExercise\AngleExercise\bin\Debug\AngleExercise.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\AngleExercise\AngleExercise\bin\Debug\AngleExercise.pdb
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\AngleExercise\AngleExercise\obj\Debug\AngleExercise.csproj.AssemblyReference.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\AngleExercise\AngleExercise\obj\Debug\AngleExercise.csproj.CoreCompileInputs.cache
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\AngleExercise\AngleExercise\obj\Debug\AngleExercise.exe
+C:\Users\Jessa Mae\OneDrive\Desktop\ict-exam-notes\program-simulation\AngleExercise\AngleExercise\obj\Debug\AngleExercise.pdb
